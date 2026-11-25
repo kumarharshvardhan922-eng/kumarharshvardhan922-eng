@@ -14,7 +14,7 @@
 - 🎓 Integrated M.Tech in **Artificial Intelligence** at **VIT Bhopal** (CGPA **8.51 / 10**)
 - 🏗️ I build high-concurrency full-stack platforms, offline-first PWAs and voice/LLM-powered apps
 - 🏆 **National finalist**, Eco-Hackathon at **Technex'26, IIT (BHU) Varanasi**
-- 👥 **Technical Lead** of *Gen Z Alpha Coders*, a 6-member team that has competed at Techfest Smart VIT Hackathin
+- 👥 **Technical Lead** of *Gen Z Alpha Coders*, a 6-member team that has competed at Smart VIT Hackathon
 - 🔍 Looking for a **technical or research internship** in AI / full-stack engineering
 
 ---
