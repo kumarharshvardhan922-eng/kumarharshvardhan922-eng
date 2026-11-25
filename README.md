@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring Full-Stack AI Engineer · Hackathon Builder · Integrated M.Tech AI @ VIT Bhopal</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/kumar-harshvardhan-061374377/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:kumarharshvardhan922@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <img src="https://komarev.com/ghpvc/?username=kumarharshvardhan922-eng&style=for-the-badge&color=blue" />
 </p>
